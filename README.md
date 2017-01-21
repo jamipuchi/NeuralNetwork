@@ -20,3 +20,7 @@ The only numbers that were important were the first two ones. If they were diffe
 |  1    | 0     | 1     | 0    |
 |  1    | 1     | 0     | 1    |
 |  1    | 1     | 1     | 1    |
+
+
+![alt tag](https://github.com/jamipuchi/NeuralNetwork/blob/master/predictions.PNG?raw=true)
+![alt tag](https://github.com/jamipuchi/NeuralNetwork/blob/master/Input.PNG?raw=true)
