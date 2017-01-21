@@ -9,13 +9,13 @@ The challenge for this project was to create a 3 layer feedforward neural networ
 ![alt tag](https://github.com/jamipuchi/NeuralNetwork/blob/master/Neural%20networks%20.png?raw=true)
 ##Results
 The only numbers that were important were the first two ones. If they were different, the result should be 0 and if they were equal 1. Here is the table (the bold ones were used for the training set)
-| Input  |||Output|
-| ------------- |:-------------:| -----:|-----:|
-|**0**|**0**|**0**|**0**|
-|**0**|**0**|**1**|**0**|
-|**0**|**1**|**0**|**1**|
-|**0**|**1**|**1**|**1**|
-|1|0|0|0|
-|1|0|1|0|
-|1|1|0|1|
-|1|1|1|1|
+| Input_1 | Input_2 | Input_3 | Output |
+ --- | --- | --- | --- 
+| **0** | **0** | **0** | **0** |
+| **0** | **0** | **1** |**0** |
+| **0** | **1** | **0** |**1** |
+| **0** | **1** | **1** |**1** |
+|  1    | 0     | 0     | 0    |
+|  1    | 0     | 1     | 0    |
+|  1    | 1     | 0     | 1    |
+|  1    | 1     | 1     | 1    |
