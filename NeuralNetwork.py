@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 
 def nonlin(x,deriv=False):
@@ -58,7 +57,7 @@ for j in xrange(60000):
 
 
 #test neural network with new data
-TestArray=np.array([[1,0,1],[1,1,0],[1,1,1]])
+TestArray=np.array([[1,0,0],[1,0,1],[1,1,0],[1,1,1]])
 
 l0 = TestArray
 l1 = nonlin(np.dot(l0,syn0))
